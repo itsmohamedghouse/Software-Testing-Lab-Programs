@@ -14,6 +14,7 @@
 # size of any side is 10. Derive test cases for your program based on equivalence class
 # partitioning, execute the test cases and discuss the results.
 
+# Check if input values are in range
 while True:
 	a = int(input("Enter first side of triangle:"))
 	b = int(input("Enter second sides of triangle:"))
