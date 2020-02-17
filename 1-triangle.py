@@ -1,3 +1,5 @@
+# Program Number 7 in Manual
+
 # Design and develop a program in a language of your choice to solve the triangle problem
 # defined as follows: Accept three integers which are supposed to be the three sides of a
 # triangle and determine if the three values represent an equilateral triangle, isosceles triangle,
